@@ -1,4 +1,46 @@
 # Changelog
+## <cg>v4.1.2</c> (2024-03-01)
+* <cg>Added</c> <cj>better descriptions</c> for <co>Cloudflare errors</c>
+  * This shows how much time is left when you're rate limited for example
+* <cg>Fixed</c> <cr>several issues</c> related to <co>Filtered Search</c>
+* Other bugfixes & improvements
+
+## <cg>v4.1.1</c> (2024-02-28)
+* <cg>Fixed</c> a <cr>rare crash</c> in <cj>Creator Point Breakdown</c>
+* Other bugfixes & improvements
+
+## <cg>v4.1.0</c> (2024-02-28)
+This update is largely based on [your suggestions](https://twitter.com/Misabr0penguin/status/1757481064254034421)!
+* <cg>Added</c> <cj>Creator Point Breakdown</c> to <co>Profiles</c>
+* <cg>Added</c> <cj>Queued Quests view</c> and <cj>Quests History</c>
+* <cg>Added</c> <cj>"Found in"</c> to <co>Icon Info</c>
+* <cg>Added</c> <cj>Game Version filter</c> to <co>Filtered Search</c>
+* <cg>Added</c> <cj>Jump to Last Page</c> for <co>Comments</c>
+* <cg>Added</c> <cj>Favorite</c> <co>level search</c>
+* <cg>Improved</c> <cj>Chest Reward History</c>
+* Other bugfixes & improvements
+
+**For texture pack creators:** This update changes the alignment of some textures. Texture packs modifying BetterInfo's textures may need to be updated to avoid minor visual glitches.
+
+## <cg>v4.0.0</c> (2024-02-12)
+* Fixed demon difficulty filtering in Filtered Search
+* Other bugfixes & improvements
+
+## <cg>v4.0.0-alpha.13</c> (2024-02-04)
+* Added Mac support
+* Fixed Extended Level Stats not working properly for old daily levels
+* Other bugfixes & improvements
+
+## <cg>v4.0.0-alpha.12</c> (2024-02-04)
+* Added a temporary bugfix for a Geode Loader bug
+
+## <cg>v4.0.0-alpha.11</c> (2024-02-03)
+* Minor bugfixes & improvements
+
+## <cg>v4.0.0-alpha.10</c> (2024-02-02)
+* Fixed Legendary & Mythic filters in BI Filtered Search
+* Other bugfixes & improvements
+
 ## <cg>v4.0.0-alpha.9</c> (2024-01-24)
 * Updated for changes in Geode v2.0.0-beta.8
 

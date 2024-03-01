@@ -1,9 +1,9 @@
-# Click Sound
+# Click Sounds
 
-Plays a click sound whenever you press a jump button, or a release sound whenever you release a jump button if you want that too.
+Plays a click sound whenever you press a jump button, or (optionally) a release sound whenever you release a jump button.
 If you want a new built-in click sound or feature to be added, join the [discord server](https://discord.gg/RwbRP8ADdc). <3
 
-### Uses Geode Beta on 2.2
+### Uses Geode v2.0.0-beta.20 and Node-IDs v1.6.1
 Open the mod settings to change the click sound. Set the click sound to '0' to use a custom click sound.
 ## Click sounds:
 ### Useful click sounds (positive number):
@@ -25,6 +25,18 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 15 - SpaceUK Click
 - 16 - Npesta Click/Release
 - 17 - Cursed Click
+- 18 - Spacebar Click/Release
+- 19 - Click 3
+- 20 - Viper Spacebar Click/Release (randomized)
+- 21 - Click/Release 5 (randomized)
+- 22 - Zoink Click/Release
+- 23 - Screen Tap 1
+- 24 - Plate
+- 25 - Neiro Click/Release
+- 26 - Doggie
+- 27 - Trusta
+- 28 - Gazonk
+- 29 - Sayo Device (randomized)
 ### Meme click sounds (negative number):
 - 1 - FIRE IN THE HOLE!
 - 2 - I loooove GD Cologne
@@ -48,6 +60,11 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 20 - Car Door Slam
 - 21 - Spectre / We Live We Love We Lie
 - 22 - Congregation Jumpscare (1/500 chance)
+- 23 - Joe Biden Soda
+- 24 - Water on the Hill
+- 25 - Riot Quack
+- 26 - FUCK
+- 27 - Gravity Coil
 ## Release sounds
 ### Useful release sounds:
 - 0 - Custom sound
@@ -58,6 +75,12 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 - 5 - Faze Click/Release (randomized)
 - 6 - Bloody Click/Release (randomized)
 - 7 - Npesta Click/Release
+- 8 - Spacebar Click/Release
+- 9 - Viper Spacebar Click/Release (randomized)
+- 10 - Click/Release 5 (randomized)
+- 11 - Zoink Click/Release
+- 12 - Neiro Click/Release
+- 13 - Sayo Device (randomized)
 ### Meme release sounds (negative number):
 - 1 - TikTok
 
@@ -65,9 +88,11 @@ Open the mod settings to change the click sound. Set the click sound to '0' to u
 Thank you so much to all of the people listed below for doing whatever they did to help create the mod!
 - [Beat](user:13873867) - This is me! I made the mod.
 - [Viper](user:14284530) - Developer, helped me with android support :3
-- [Coop](user:21207551) - Developer, helped make coding the mod more efficient ^w^ 
+- [Coop](user:21207551) - Developer, helped make coding the mod more efficient ^w^
+- [Weebify](https://github.com/Weebifying) - Developer :3
 - [Uproxide](user:25397826) - Developer, helped with the developer badge system! OwO
-- Firee - Added mac support, thank you so much!
+- [Firee](user:6253758) - Added mac support, thank you so much! GDUtils Notification Test Button
+- [Jouca](user:7026949) - GDUtils Notification Test Button
 - Sicariusblack - Helps with making some click sounds sound good!
 - aceofspadesss - Provided a ton of unique click sounds for the mod! >w<
 - kittykatspaugh - Emotional support

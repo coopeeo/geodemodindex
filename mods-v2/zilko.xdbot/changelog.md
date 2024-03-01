@@ -1,3 +1,96 @@
+# v1.5.1
+
+ * Temporarily disabled Ignore Inputs on Android to fix major bugs, will re-implement in the future.
+
+# v1.5.0
+
+ * Added NoClip setting.
+ * Added Instant Respawn setting.
+ * Added Instant Mirror Portal setting.
+ * Added Instant Disable Death Effect setting.
+ * Added Ignore Inputs setting.
+ * Added Clear All Macros button.
+ * Added ignore click on play on Android.
+ * Added Auto Safe Mode on Android.
+ * Added a warning when saving a macro with an existing name.
+ * Made Android buttons slightly bigger.
+ * Fixed frame label sometimes not showing.
+ * Fixed some platformer macro bugs.
+ * Slightly improved Android performace when loading frame fixes macros.
+ * Possibly fixed one more crash on restart.
+ 
+# v1.4.8
+
+ * Fixed some macro bugs on Android.
+ * Added Auto Safe Mode setting.
+
+# v1.4.7
+
+ * Fixed speedhack audio staying after toggling play macro.
+ * Fixed macro not recording a release when you place a checkpoint while holding.
+
+# v1.4.6
+
+ * Fixed occasional crash on restart.
+ * Fixed macros ignoring frame fixes when loaded.
+ * Made it so speedhack sets to 1 when you play a macro to avoid confusion.
+ * Made it so xdBot button always appears at the end screen if the setting is enabled.
+
+# v1.4.5
+
+ * Fixed some Android macros crashing.
+ * Fixed frame stepper button being misaligned on Android.
+ * Fixed music unsyncing when resuming the game.
+ * Fixed music unsyncing when using speedhack.
+ * Added Speedhack Audio setting.
+ * Added Show Button at End setting.
+ * Added ignore click on play on Windows.
+ * You can now hold the frame stepper key on Windows.
+ * Made speedhack limit 2 instead of 1.
+ * Speedhack now also works while playing a level.
+
+# v1.4.4
+
+ * Fixed Android macros recording incorrectly.
+
+# v1.4.3
+
+ * Re-worked FPS selector.
+ * Fixed frame stepper buttons conflicting with platformer buttons on Android.
+ * Fixed incompatibility with BetterPause.
+ 
+
+# v1.4.2
+
+ * Added FPS selector to both platforms. Higher FPS might make the game slow down on Android.
+ * Fixed not being able to hold at the beginning of an attempt on Android.
+ * Moved the disable button away from the advance frame one to prevent misclicks on Android.
+ * Removed size macro info because it was too cluttered.
+
+# v1.4.1
+
+ * Fixed layering issues with labels and 2.2 shaders.
+ * Fixed playing label not working on Windows.
+ * Fixed Vanilla macros not saving correctly.
+ * Fixed Android buttons staying after completing a level.
+ * Fixed spider teleport animation not showing on Android.
+
+# v1.4.0
+
+ * Added android support.
+ * Slightly improved respawn lag while recording.
+ * Changed the menu button sprite.
+ * Added discord button.
+
+# v1.3.10
+ 
+ * Fixed macros working different when loaded.
+
+# v1.3.9
+
+ * Fixed crash i think xd
+ * You can now add inputs to a macro by recording over it (again).
+
 # v1.3.8
 
  * Fixed occasional crash on restart again.

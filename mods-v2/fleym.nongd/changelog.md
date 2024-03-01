@@ -1,5 +1,19 @@
 # Changelog
 
+## v2.5.2
+
+ * Fix dailies and weeklies setting their song name to "Unknown"
+
+## v2.5.1
+
+ * Fix fixDefault running for every single CustomSongWidget instance
+
+## v2.5.0
+
+ * Fix the download slider being made invisible
+ * Make file IO error messages more descriptive
+ * Add a button for joining the Discord server
+
 ## v2.4.0
 
  * Fix a bug that caused defaultValid to be undefined when writing to JSON

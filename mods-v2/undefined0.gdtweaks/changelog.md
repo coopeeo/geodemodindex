@@ -1,4 +1,12 @@
 # GDTweaks Changelog
+## v1.9.0
+- Add "Replace Map Packs button with Hall Of Fame" (see issue #4)
+## 1.8.1
+- Add tags
+- Add android support! (stupid 10 year old stackoverflow post made it not work)
+## 1.8.0
+- Added "Move daily chest to bottom right" (see issue #3)
+- Added the ability to move the profile to the bottom right
 ## 1.7.1
 - Update to Node IDs v1.3.0
 - Fix issues with icon kit

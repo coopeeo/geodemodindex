@@ -6,12 +6,18 @@ Complete enough levels in your current Tier and move on to the next!
 
 **Are you worthy?**
 
+[Check out the original website!](https://gddp.pro/)
+
+# Important Information
+
+If progress isn't registering, you might need to redownload the levels you've completed. This is because the mod uses your Completed Levels save data to detect how much progress you have.
+
+If you redownloaded the levels, reopened the list, refreshed the pack menu, and still don't have the correct progress, let me know and I'll look into it.
+
 # Update Roadmap
 
-* Add Bonus Packs
-* Add Monthly Packs
-* Show Tier Progression
-* Custom Demon Icons on Level Pages
+* Grandpa Demon Support
+* Fancy Level Info Layer
 
 # Compatible Mods
 

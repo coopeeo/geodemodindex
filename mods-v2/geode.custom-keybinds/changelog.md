@@ -1,5 +1,23 @@
 # Changelog
 
+## v1.5.2
+ - Fix unpausing with space also causing the player to jump
+ - Add missing "Pan editor while swiping" editor keybind
+ - Add missing "Transform" editor keybind
+
+## v1.5.1
+ - Fix not being able to hold from respawn in PlayLayer
+
+## v1.5.0
+
+ - Add editor save & load position keybinds
+ - Fix a lot of the internal implementations of keybinds to just use GD's implementations, potentially fixing a bunch of inconsistencies in the editor
+
+## v1.4.0
+ 
+ - Fix being able to reset levels during level end animation
+ - Remove editor half-move and big-move keybinds, since those are not in the vanilla game and as such should be implemented through mods instead
+
 ## v1.3.3
 
 - Fix editor keybinds

@@ -1,4 +1,61 @@
 # Changelog
+## Version v1.5.3
+* 'Sayo Device' useful randomized click/release sound added! (ty slxyer!)
+* Sayo Device includes 8 clicks and 8 releases (tats alot!! >w<)
+* Release sounds and custom sounds are now twice as loud.
+## Version v1.5.2
+* Added headings in the settings menu! (ty coop and viper :3)
+## Version v1.5.1
+* Added tags for the Geode downloads page
+## Version v1.5.0
+* You can now preview sounds in mod settings! (tysm coop i luv u! :3)
+* Credited Jouca and Firee
+* Internal changes
+* Optimized 'Geometry Dash Death' click sound
+## Version v1.4.11
+* 'Trusta' useful click sound added!
+* 'Gazonk' useful click sound added! (ty gazonkgd! =w=)
+* 'Gravity Coil' meme click sound added!
+* New sound for 'Water On The Hill' meme click sound!
+## Version v1.4.10 (minor)
+* TodoReturn has been removed -w-
+* Is this better, Alk? :3
+## Version v1.4.9
+* 'Doggie' useful click sound added!
+* 'Neiro' useful click/release sound added!
+## Version v1.4.8
+* It is now much more clear that you need to install Node-IDs
+* (somehow it was confusing before?)
+## Version v1.4.7
+* 'Plate' useful click sound added!
+* 'Riot Quack' meme click sound added!
+* 'FUCK' meme click sound added!
+* Credited Weebify for developing :3 (i luv u weebify <3)
+## Version v1.4.6
+* Requirements: Geode v2.0.0-beta.19 / Node-IDs v1.5.1
+* Volume of click sounds has increased! (0.5 -> 2) :3
+* 'Zoink' useful release sound added!
+* 'Zoink' useful click sound fixed!
+## Version v1.4.5
+* Requirements: Geode v2.0.0-beta.19 / Node-IDs v1.4.0
+* Fix sizing of the settings button and developer badges.
+* 'Zoink' useful click sound added!
+* 'Screen Tap 1' useful click sound added!
+## Version v1.4.4
+* New Requirements: Geode v2.0.0-beta.19 / Node-IDs v1.4.0
+* 'Water on the hill' meme click sound added!
+* 'Viper Spacebar' useful click sound added! (ty viper!)
+* 'Click/Release 5' useful click sound added! (ty main!)
+## Version v1.4.3
+* Requirements: Geode v2.0.0-beta.17 / Node-IDs v1.3.0
+* 'Click Sound' is now 'Click Sounds'
+* .flac audio support added! (.ogg is still the best audio format to use for custom sounds.)
+* 'Joe Biden Soda' meme click sound added! :3
+## Version v1.4.2
+* Requirements: Geode v2.0.0-beta.17 / Node-IDs v1.3.0
+* .m4a audio support added! (.ogg is still the best audio format to use for custom sounds.)
+* 'Spacebar 2' useful click sound added! (ty tonysburger!)
+* 'Click 3' useful click sound added! (ty probank!)
 ## Version v1.4.1
 * 'Congregation Jumpscare' meme click sound added! (499/500 times is osu hit, 1/500 times is congregation jumspcare.)
 * 'Cursed' useful click sound added!
